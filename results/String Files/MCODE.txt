@@ -1,0 +1,16 @@
+MCODE App Results
+Date: Aug 8, 2026, 2:03:34 PM
+
+Parameters:
+   Network Scoring:
+      Include Loops: false  Degree Cutoff: 2
+   Cluster Finding:
+      Node Score Cutoff: 0.2  Haircut: true  Fluff: false  K-Core: 2  Max. Depth from Seed: 100
+
+Cluster	Score (Density*#Nodes)	Nodes	Edges	Node IDs
+1	26.538	27	345	fliH, fliA, flgK, fliF, flgJ, fliK, flgI, fliL, flgH, fliZ, flgG, evgS, flgF, motB, cheW, flgE, tar, flgD, motA, flgB, cheA, fliS, cheB, fliD, cheY, fliC, cheZ
+2	9.778	10	44	katE, ybaY, ycaC, otsB, hchA, poxB, otsA, talA, fbaB, tktB
+3	8	8	28	cysP, malE, modF, cysU, malF, btuD, mglA, rbsC
+4	5	5	10	csgD, csgA, csgF, csgE, csgG
+5	3	3	3	ptsG, aceB, pck
+6	3	3	3	adhP, yahK, yqhD
